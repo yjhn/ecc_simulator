@@ -1,0 +1,1 @@
+pandoc --template template.latex ataskaita.md -o ataskaita.pdf --pdf-engine=xelatex
